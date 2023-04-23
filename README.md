@@ -8,7 +8,7 @@
 - Feature Extraction & Visualization in JavaScript
 - Building a Chart using JavaScript
 - Nearest Neghbor Classifier with JavaScript
-- Data Scaling - Normalization
+- Data Scaling - Normalization in JavaScript
 - K Nearest Neghbor Classifier with JavaScript
 - Model Evaluation with JavaScript
 - Decision Boundaries in JavaScript
