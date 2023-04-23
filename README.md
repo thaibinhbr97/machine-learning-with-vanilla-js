@@ -13,3 +13,5 @@
 - Model Evaluation with JavaScript
 - Decision Boundaries in JavaScript
 - KNN Classifier with Python & Scikit-learn
+
+Thanks to Radu
