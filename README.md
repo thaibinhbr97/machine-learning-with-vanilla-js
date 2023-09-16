@@ -1,6 +1,6 @@
 # machine-learning-with-vanilla-js
 ### Drawing Web App: https://thaibinhbr97.github.io/machine-learning-with-vanilla-js/web/creator.html
-### Machine Learning Web App: https://thaibinhbr97.github.io/machine-learning-with-vanilla-js/web/creator.html
+### Machine Learning Web App: https://thaibinhbr97.github.io/machine-learning-with-vanilla-js/web/viewer.html
 
 ### Techniques used for this project:
 - Drawing App with JavaScript
